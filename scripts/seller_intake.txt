@@ -1,0 +1,5 @@
+What is your address?
+Type of property?
+Approximate condition?
+Do you already have an agent?
+When are you looking to sell?
